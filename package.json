@@ -1,0 +1,33 @@
+{
+  "name": "iurerepudiandae",
+  "version": "1.0.0",
+  "description": "TypeScript utils for dealing with TypeScript arrays",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test-type": "vitest typecheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ConradGulgowski/iurerepudiandae.git"
+  },
+  "keywords": [
+    "typescript",
+    "array",
+    "length"
+  ],
+  "files": [
+    "dist",
+    "src"
+  ],
+  "author": "AbdullahKeeling",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.4",
+    "typescript": "^5.0.0-beta",
+    "vitest": "^0.28.5"
+  },
+  "homepage": "https://github.com/ConradGulgowski/iurerepudiandae.git"
+}
